@@ -1,7 +1,6 @@
 from flask import Flask
 app=Flask(_name_)
 
-app = Flask(__name__)
 menu="""
 <a href="/">Página inicial</a> | <a href="/sobre">Sobre</a> ! <a href="/contato">Contato</a>
 <br>
